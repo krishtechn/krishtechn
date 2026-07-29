@@ -2,7 +2,7 @@
 <!-- <img src="https://github.com/krishtechn/krishtechn/assets/your-banner-image.png" alt="Banner" width="100%" /> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=13B7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Kharal!;React+Developer+%7C+CSIT+Student+%7C+YouTuber;Always+Learning+%F0%9F%92%AB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=13B7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Kharal!;Full Stack+Developer+%7C+CSIT+Student+%7C+YouTuber;Always+Learning+%F0%9F%92%AB" />
 </p>
 
 <p align="center">
