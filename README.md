@@ -25,14 +25,14 @@
 - 🎓 **CSIT Student at Ascol** | Diploma in Computer Engineering
 - 💻 **React.js Developer** at Kush Fintech & Virtuvian | **Freelancer**
 - 🌏 Based in Kathmandu, Nepal
-- 🎥 [**YouTube Creator**](https://www.youtube.com/@TheEngineeringStack) — 180+ videos on Android & Web Development
+- 🎥 [**YouTube Creator**](https://www.youtube.com/@TheEngineeringStack) — 200+ videos on Android & Web Development
 
 ---
 
 ## ⚡ Quick Facts
 
-- 🌱 Learning: Advanced React, Next.js, Django, UI Design
-- 🏅 2+ years of experience | Open-source and freelance contributor
+- 🌱 Learning: Advanced React, Next.js, Django, UI Design,Node Js, Express
+- 🏅 3+ years of experience | Open-source and freelance contributor
 - 👨‍🏫 Passionate about teaching & sharing knowledge (YouTube)
 - 💡 Always curious, always building
 - 🤝 Open for collaboration & freelance work
@@ -48,9 +48,13 @@
 <details>
   <summary>Click to expand my main tools & frameworks</summary>
   
-  - **Frontend:** React.js (Hooks, Zustand, Redux, Toolkit, Context API, React Router, React Query), Next.js, React Native, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
-  - **Backend:** Django
-  - **Other:** Git & GitHub, Figma, Responsive UI, State Management, API Integration
+  - **Frontend:** React.js,(Hooks, Zustand, Redux, Toolkit, Context API, React Router, React Query), Next.js, React Native, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
+  - **Backend:** Django,Express js,Node Js
+  - **Database:** Postgresql,MongoDB
+  - **Ai tools:** Cursor,Antigravity,copilot,Lovable,NewBolt,Claude,Chatgpt
+  - **Api testing:** Postman
+  - **Backend-as-a-Service (BaaS):** supabase,appwrite,firebase
+  - **Other:** Git & GitHub,Docker, Figma, Responsive UI,shadcdn, State Management, API Integration|Testing,System Design
 </details>
 
 ---
@@ -61,59 +65,6 @@
 - 💡 **Frontend Developer @ Virtuvian**
 - 🌏 **Freelancer** — Web & mobile projects for international clients
 
----
-
-## 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://buddhabhumiagro.com/" target="_blank">
-        <!-- <img src="PROJECT_THUMBNAIL_URL" width="120" /> -->
-        <b>Buddha Bhumi Agro</b>
-      </a>
-      <br /><sub>Agro business platform</sub>
-    </td>
-    <td align="center">
-      <a href="https://techkrish.netlify.app/" target="_blank">
-        <!-- <img src="PROJECT_THUMBNAIL_URL" width="120" /> -->
-        <b>Portfolio</b>
-      </a>
-      <br /><sub>My developer portfolio</sub>
-    </td>
-    <td align="center">
-      <a href="http://aakalainfotech.com.np/" target="_blank">
-        <!-- <img src="PROJECT_THUMBNAIL_URL" width="120" /> -->
-        <b>Aakala Infotech</b>
-      </a>
-      <br /><sub>IT company website</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://associationdevteam.netlify.app/" target="_blank">
-        <!-- <img src="PROJECT_THUMBNAIL_URL" width="120" /> -->
-        <b>Association Dev Team</b>
-      </a>
-      <br /><sub>Dev team site (React/Next.js)</sub>
-    </td>
-    <td align="center">
-      <!-- <img src="PROJECT_THUMBNAIL_URL" width="120" /> -->
-      <b>Hotel Booking Website</b>
-      <br /><sub>Online booking platform</sub>
-    </td>
-  </tr>
-</table>
-
-<sub>
-<details>
-  <summary>See more projects</summary>
-  - [Project 1: Add details here]
-  - [Project 2: Add details here]
-</details>
-</sub>
-
----
 
 ## 🎬 YouTube: The Engineering Stack
 
