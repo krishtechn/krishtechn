@@ -22,8 +22,8 @@
 
 ## 🚀 About Me
 
-- 🎓 **CSIT Student at Ascol** | Diploma in Computer Engineering
-- 💻 **React.js Developer** at Kush Fintech & Virtuvian | **Freelancer**
+- 🎓 **Full Stack Developer | CSIT Student at Ascol** | Diploma in Computer Engineering
+- 💻 ** Experience React.js Developer** at Kush Fintech & Virtuvian | **Freelancer**
 - 🌏 Based in Kathmandu, Nepal
 - 🎥 [**YouTube Creator**](https://www.youtube.com/@TheEngineeringStack) — 200+ videos on Android & Web Development
 
@@ -31,7 +31,6 @@
 
 ## ⚡ Quick Facts
 
-- 🌱 Learning: Advanced React, Next.js, Django, UI Design,Node Js, Express
 - 🏅 3+ years of experience | Open-source and freelance contributor
 - 👨‍🏫 Passionate about teaching & sharing knowledge (YouTube)
 - 💡 Always curious, always building
@@ -51,8 +50,9 @@
   - **Frontend:** React.js,(Hooks, Zustand, Redux, Toolkit, Context API, React Router, React Query), Next.js, React Native, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
   - **Backend:** Django,Express js,Node Js
   - **Database:** Postgresql,MongoDB
-  - **Ai tools:** Cursor,Antigravity,copilot,Lovable,NewBolt,Claude,Chatgpt
-  - **Api testing:** Postman
+  - **Tools used:** Cursor,Antigravity,VsCode
+  - **Ai tools:** Claude,Replit,copilot,Cursor,Antigravity,Chatgpt,Lovable,NewBolt
+  - **Api testing:** Postman,ThunderClient
   - **Backend-as-a-Service (BaaS):** supabase,appwrite,firebase
   - **Other:** Git & GitHub,Docker, Figma, Responsive UI,shadcdn, State Management, API Integration|Testing,System Design
 </details>
@@ -64,10 +64,9 @@
 - 🚀 **React Developer @ Kush Fintech**
 - 💡 **Frontend Developer @ Virtuvian**
 - 🌏 **Freelancer** — Web & mobile projects for international clients
-
+- 💡 **Full Stack Developer**
 
 ## 🎬 YouTube: The Engineering Stack
-
 [![YouTube Banner](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TheEngineeringStack)
 
 > 📺 **180+ videos** | Android & Web Dev | Tutorials | Project Walkthroughs  
